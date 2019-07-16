@@ -1,2 +1,2 @@
-# mdbblog-theme
-Bootstrap WordPress – building a responsive theme
+# mdb-theme
+Bootstrap WordPress – Blog-E-Commerce--theme
